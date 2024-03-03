@@ -43,6 +43,7 @@ func TestEndpointsRetrieve(t *testing.T) {
 	}
 }
 
+// beginning of test
 func TestEndpointSave(t *testing.T) {
 	body := `{
 		"service": "ty",
